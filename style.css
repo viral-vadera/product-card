@@ -19,17 +19,17 @@ font-family: 'Montserrat', sans-serif; */
 .card {
   margin-left: auto;
   margin-right: auto;
-  width: 65rem;
+  width: 32.5rem;
   margin-top: auto;
   margin-bottom: auto;
-  height: 45rem;
+  height: 22.5rem;
   display: flex;
   border-radius: 1rem;
 }
 
 .image1 {
   height: 100%;
-  width: 32.5rem;
+  width: 16.25rem;
   border-radius: 1rem 0 0 1rem;
 }
 
@@ -38,41 +38,41 @@ font-family: 'Montserrat', sans-serif; */
 }
 
 .info {
-  width: 32.5rem;
+  width: 16.25rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 0 1rem 1rem 0;
   display: flex;
   /* justify-content: center; */
   flex-direction: column;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 .title {
   display: flex;
   justify-content: flex-start;
-  font-size: 25px;
-  margin: 5px;
-  margin-top: 15px;
+  font-size: 12.5px;
+  margin: 2.5px;
+  margin-top: 7.5px;
   font-family: "Montserrat", sans-serif;
   font-weight: 100;
   opacity: 40%;
 }
 
 .info h2 {
-  font-size: 63px;
-  margin-left: 5px;
+  font-size: 31.5px;
+  margin-left: 2.5px;
   font-family: "Fraunces", serif;
-  line-height: 62px;
-  margin-top: 23px;
-  margin-bottom: 10px;
+  line-height: 31px;
+  margin-top: 11.5px;
+  margin-bottom: 5px;
 }
 
 .info p {
-  font-size: 28px;
+  font-size: 14px;
   font-family: "Montserrat", sans-serif;
   opacity: 40%;
-  line-height: 38px;
-  margin-top: 20px;
+  line-height: 19px;
+  margin-top: 10px;
 }
 
 .checkout {
@@ -81,46 +81,46 @@ font-family: 'Montserrat', sans-serif; */
 }
 
 .price {
-  margin-top: 25px;
+  margin-top: 12.5px;
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 25px;
 }
 
 .real_price {
-  font-size: 60px;
+  font-size: 30px;
   color: hsl(158, 36%, 37%);
   font-family: "Fraunces", serif;
 }
 
 .discount {
-  font-size: 30px;
+  font-size: 15px;
   opacity: 40%;
   text-decoration: line-through;
 }
 
 .addtoCard {
   background-color: hsl(158, 36%, 37%);
-  margin-top: 25px;
+  margin-top: 12.5px;
   justify-self: center;
   margin-left: auto;
   margin-right: auto;
-  width: 435px;
-  height: 88px;
-  border-radius: 15px;
+  width: 217.5px;
+  height: 44px;
+  border-radius: 7.5px;
   display: flex;
   justify-content: center;
   align-items: center;
   color: white;
   font-family: "Montserrat", sans-serif;
-  font-size: 30px;
+  font-size: 15px;
   border: none;
 }
 
 .addtoCard img {
-  height: 30px;
-  width: 52px;
-  padding-right: 20px;
+  height: 15px;
+  width: 26px;
+  padding-right: 10px;
 }
 
 @media only screen and (max-width: 375px) {
