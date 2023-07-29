@@ -18,7 +18,7 @@ This is a solution to the [Product-perview-card-front-end-mentor](https://www.fr
 ### Links
 
 - Solution URL: [solution](https://www.frontendmentor.io/solutions/qrcomponent-with-html-and-vanilla-css--e8TsdTtcm)
-- Live Site URL: [gitpages live site](https://viral-vadera.github.io/QR-componenet_fornt-end_mentor/)
+- Live Site URL: [gitpages live site](https://viral-vadera.github.io/product-card/)
 
 ## My process
 
